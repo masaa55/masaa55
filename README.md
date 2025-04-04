@@ -2,7 +2,7 @@
 ### *Microprocessor Technology & Embedded Systems Enthusiast*  
 
 🔬 **Currently Studying**: Microprocessor Technology and Instrumentation  
-🎯 **Focus Areas**: Embedded C, Sensor Interfacing, IoT Prototyping, and Control Systems  
+🎯 **Focus Areas**: Embedded Systems, Sensor Interfacing, IoT Prototyping, and Control Systems  
 
 ---
 
