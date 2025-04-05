@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">  
   <img src="https://img.shields.io/badge/Proteus-1E90FF?logo=proteus&logoColor=white" alt="Proteus">  
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" alt="RPi">
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 </p>  
 
 ---
@@ -21,7 +20,7 @@
 ## 🌟 **Featured Projects**  
 1. **Smart Temperature Logger**  
    - PIC microcontroller + DS18B20 sensor + Python data visualization  
-   - *Code:* [`github.com/jvolisi/temp-logger`](https://github.com/masaa55/temp-logger)  
+   - *Code:* [`github.com/masaa55/temp-logger`](https://github.com/masaa55/temp-logger)  
 
 2. **PID Motor Controller**  
    - STM32 PWM + optical encoder feedback  
