@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">  
   <img src="https://img.shields.io/badge/Proteus-1E90FF?logo=proteus&logoColor=white" alt="Proteus">  
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white" alt="RPi">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
 </p>  
 
 ---
